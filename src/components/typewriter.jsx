@@ -3,7 +3,6 @@ import React from "react";
 import Typewriter from "typewriter-effect";
 
 const TypewriterTitle = (props) => {
-  console.log(props);
   const a = "hello";
   return (
     <Typewriter
